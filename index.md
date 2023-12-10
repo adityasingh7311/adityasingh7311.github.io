@@ -7,3 +7,13 @@
 #
 layout: home
 ---
+
+Hi, I'm Aditya. I'm currently working on a comprehensive job seeking platform at <a href="https://www.myjobaide.com/">myjobaide</a>.
+
+You can find some of my past projects on my Github. Below are links to reports for the various computer graphics projects I've done.
+
+<h3><a href="https://cal-cs184-student.github.io/project-webpages-sp23-adityasingh7311/proj1/index.html">Rasterizer</a><br></h3>
+<h3><a href="https://gundralaa.github.io/cs184_p2_site/">Geometric Mesh</a><br></h3>
+<h3><a href="https://cal-cs184-student.github.io/project-webpages-sp23-adityasingh7311/proj3-1/index.html">Path Tracing Part 1</a></h3>
+<h3><a href="https://cal-cs184-student.github.io/project-webpages-sp23-adityasingh7311/proj3-2/index.html">Path Tracing Part 2</a></h3>
+<h3><a href="https://cal-cs184-student.github.io/project-webpages-sp23-adityasingh7311/proj4/index.html">Cloth Simulator</a></h3>
