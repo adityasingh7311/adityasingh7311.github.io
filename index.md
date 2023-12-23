@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Hi, I'm Aditya. I'm currently working on a comprehensive job seeking platform at <a href="https://www.myjobaide.com/">myjobaide</a>.
+Hi, I'm Aditya.
 
 You can find some of my past projects on my Github. Below are links to reports for the various computer graphics projects I've done.
 
